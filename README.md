@@ -1,4 +1,4 @@
-<h1 align="center">Hi!我叫LIUHAOSHENG</h1>
+<h1 align="center">LIUHAOSHENG</h1>
 <h6 align="center">来自中国的业余前端开发人员</h6>
 
 
